@@ -10,6 +10,6 @@ Backend:
   -NodeJS
   -Express
 Databases:
-  -MangoDB
+  -MongoDB
   
   
